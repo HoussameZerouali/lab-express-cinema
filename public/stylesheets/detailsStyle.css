@@ -1,0 +1,10 @@
+
+
+#details-container {
+    display: flex;
+}
+
+#info-div {
+    margin-left: 25px;
+    width: 600px;
+}
