@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+
+#movie-container {
+    display: flex;
+    flex-flow: wrap;
+    
+    justify-content: space-evenly;
+
+}
+
+#movie-div {
+    display: flex;
+    flex-direction: column;
+}
